@@ -1,3 +1,8 @@
+/*
+// Code by: C2C Manuel Riolo
+// Explanation: The reason that you would want to use these algorithms over the given
+// definition is because these algorithms have a lower runtime complexity.
+*/
 public class Question1Algorithms {
 
     public static void main(String[] args) {
